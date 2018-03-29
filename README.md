@@ -1,8 +1,6 @@
 # Meili
 Travel planning app, to travel with friends without the headache of planning with them.
 
-Currently live at [meilitravelapp.tk](http://meilitravelapp.tk/).
-
 ## Dependencies
 1. Install `npm` and `nodemon` globally on your machine.
 2. Install `cockroachdb` from [here](https://www.cockroachlabs.com/docs/stable/install-cockroachdb.html) on your machine.
